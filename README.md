@@ -2,7 +2,6 @@
 
 OtherColor is an engaging color perception game that challenges players to identify the tile with a slightly different color shade from a grid of similar-colored tiles.
 
-![OtherColor Game Preview](https://picsum.photos/800/400)
 
 ## Features
 
